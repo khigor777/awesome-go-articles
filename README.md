@@ -1,5 +1,5 @@
 # Awesome Go Articles
-A curated list of articles, for quick start and go deeper with Golang.
+A curated list of articles and best practices, for quick start and go deeper with Golang.
 
 ### Contents
 
