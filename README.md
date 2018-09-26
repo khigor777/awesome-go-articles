@@ -15,3 +15,4 @@ A curated list of articles and best practices, for quick start and go deeper wit
 ##  Best practices
 
 * [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/) - Peter Bourgon, In 2014, I gave a talk at the inaugural GopherCon titled Best Practices in Production Environments. 
+* [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/) - Peter Bourgon, GopherCon EU 2018.
