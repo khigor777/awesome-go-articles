@@ -12,3 +12,6 @@ A curated list of articles and best practices, for quick start and go deeper wit
 * [Interfaces in Go (part II)](https://medium.com/golangspec/interfaces-in-go-part-ii-d5057ffdb0a6) - Type assertion & type switch
 * [Interfaces in Go (part III)](https://medium.com/golangspec/interfaces-in-go-part-iii-61f5e7c52fb5) - Method expression derived from interface types, interface type values as map keys or interfaces of embedded fields
 
+##  Best practices
+
+* [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/) - Peter Bourgon, In 2014, I gave a talk at the inaugural GopherCon titled Best Practices in Production Environments. 
